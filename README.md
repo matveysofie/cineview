@@ -1,9 +1,6 @@
 ![Header](https://github.com/matveysofie/cineview/blob/main/assets/cineview.png)
-# cineview
-Graduate work. Development of an online cinema web service
-
-<p align="center">
-    <samp>📍Languages and Tools<samp>
+<p align="center"> 
+    <samp>🎥 CINEVIEW. Graduate work. Development of an online cinema web service</samp>
 </p>
 
 ![HTML](https://img.shields.io/badge/-HTML-ececec?style=for-the-badge&logo=python&logoColor=2c3e50)
